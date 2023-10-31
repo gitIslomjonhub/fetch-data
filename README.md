@@ -1,3 +1,3 @@
 # fetch-data
 ## MySQL tabel -> frontend 
-![](preveiw.jpg)
+![](preview.jpg)
